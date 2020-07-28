@@ -1,9 +1,10 @@
-Blocktech India is Blockchain startup.    
-whatsapp: +91 9557284086, +91 9205082542  
-telegram: https://t.me/durgeshkmr4u 
-skype:    live:b7d6a67ea9438380 
+Blocktech India is Blockchain startup.     
+You may reach us for any Queries.     
+whatsapp: +91 9557284086, +91 9205082542            
+telegram: https://t.me/durgeshkmr4u            
+skype:    live:b7d6a67ea9438380               
 
-
+    
 OUR SERVICES
 
 Cyrptocurrency Solutions         
