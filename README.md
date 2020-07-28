@@ -27,17 +27,17 @@ Cyrptocurrency Solutions
 
 
 Blockchain Solutions        
-=> Blockchain in Digital Records
-=> Blockchain in Insurance
-=> Blockchain in Gaming
-=> Blockchain in Voting
-=> Blockchain in E-Commerce 
-=> Blockchain in Real Estate
-=> Blockchain in Supply Chain 
-=> Blockchain in Healthcare
-=> Blockchain in Identity Management
-=> Blockchain in Finance Management
-=> Blockchain in Legal Management
+=> Blockchain in Digital Records  
+=> Blockchain in Insurance  
+=> Blockchain in Gaming   
+=> Blockchain in Voting 
+=> Blockchain in E-Commerce   
+=> Blockchain in Real Estate  
+=> Blockchain in Supply Chain  
+=> Blockchain in Healthcare 
+=> Blockchain in Identity Management  
+=> Blockchain in Finance Management 
+=> Blockchain in Legal Management 
 
 
 
