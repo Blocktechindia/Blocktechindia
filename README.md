@@ -10,6 +10,7 @@ skype:    live:b7d6a67ea9438380
 OUR SERVICES
 
 Cyrptocurrency Solutions
+
 => Cryptocurrency Development
 => Cryptocurrency Centralized, Decentralized, p2p, Exchange Development
 => Cryptocurrency Wallet(web, android, iOS) Development
@@ -18,7 +19,7 @@ Cyrptocurrency Solutions
 => Bitcoin MLM Software Development
 => Smart Contract Development
 
-=> Blockchain Solutions
+Blockchain Solutions
 => Blockchain in Digital Records
 => Blockchain in Insurance
 => Blockchain in Gaming
