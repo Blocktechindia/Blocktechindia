@@ -12,14 +12,21 @@ OUR SERVICES
 Cyrptocurrency Solutions
 
 => Cryptocurrency Development
+
 => Cryptocurrency Centralized, Decentralized, p2p, Exchange Development
+
 => Cryptocurrency Wallet(web, android, iOS) Development
+
 => Ethereum Token Development
+
 => Bitcoin Mining Software Development
+
 => Bitcoin MLM Software Development
+
 => Smart Contract Development
 
-Blockchain Solutions
+
+Blockchain Solutions        
 => Blockchain in Digital Records
 => Blockchain in Insurance
 => Blockchain in Gaming
